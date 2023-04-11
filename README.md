@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+echo "# LasbouyguesBaptiste.github.io" > > README.md
+git init
+git add README.md
+git commit -m "premier commit"
+branche git -M principal
+git remote add origine git@github.com: LasbouyguesBaptiste / LasbouyguesBaptiste.github.io.git
+git push -u origine principale
